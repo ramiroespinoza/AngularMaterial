@@ -9,7 +9,7 @@ export class UsuarioService {
 
   listUsuarios: Usuario[] = [
     { usuario: "respinoza", nombre: 'Ramiro', apellido: "Espinoza", sexo:'Masculino'},
-    { usuario: "wflores", nombre: 'Wilton', apellido: "Flores", sexo:'Masculino'},
+    { usuario: "mflores", nombre: 'Manuel', apellido: "Flores", sexo:'Masculino'},
     { usuario: "nlopez", nombre: 'Nicolas', apellido: "Lopez", sexo:'Masculino'},
     { usuario: "fsanchez", nombre: 'Fernando', apellido: "Sanchez", sexo:'Masculino'},
     { usuario: "cgarcia", nombre: 'Carla', apellido: "Carcia", sexo:'Femenino'},
