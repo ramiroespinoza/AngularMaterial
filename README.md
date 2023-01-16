@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
 
-Link: https://angular-ramiro-es-usermanagement.netlify.app/login
+Link: https://angular-ramiro-es-usermanagement.netlify.app
 
 ## Development server
 
