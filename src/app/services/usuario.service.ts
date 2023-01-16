@@ -14,8 +14,8 @@ export class UsuarioService {
     { usuario: "fsanchez", nombre: 'Fernando', apellido: "Sanchez", sexo:'Masculino'},
     { usuario: "cgarcia", nombre: 'Carla', apellido: "Carcia", sexo:'Femenino'},
     { usuario: "asanchez", nombre: 'Andrea', apellido: "Sanchez", sexo:'Femenino'},
-    { usuario: "jhernandez", nombre: 'Juan', apellido: "Hernandez", sexo:'Femenino'},
-    { usuario: "javalos", nombre: 'Jorge', apellido: "Avalos", sexo:'Femenino'},
+    { usuario: "jhernandez", nombre: 'Juan', apellido: "Hernandez", sexo:'Masculino'},
+    { usuario: "javalos", nombre: 'Jorge', apellido: "Avalos", sexo:'Masculino'},
   ];
   
   constructor() { }
